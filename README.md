@@ -1,4 +1,4 @@
-# Forensic Analysis AI Pipeline using Gemini API and Python
+# Forensic Company Analysis AI Pipeline using Gemini API and Python
 Uses the Gemini API to analyze financial statements and earnings calls for red flags.
 
 Process begins from main.py.
