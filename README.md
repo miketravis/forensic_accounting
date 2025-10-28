@@ -20,6 +20,6 @@ The AI forensic analysis Python pipeline process used here is as follows:
 # Next Steps
 There are many ways this project can be taken further.
   1. Reiterate over Step 3 either X amount of times or until the AI model decides it's satisfied with it's research.
-  2. Analyze and evaluate various AI models over different parts of the process. Opimal outcome would likely have multiple AI models used throughout the process.
-  3. Add quantitative factors. This process focuses on mores so on the qualitative factors to focus on showcasing the AI's ability.
+  2. Analyze and evaluate various AI models over different parts of the process. Optimal outcome would likely have multiple AI models used throughout the process.
+  3. Add quantitative factors. This process focuses on more so on the qualitative factors to focus on showcasing the AI's ability.
   4. Expand further on the pre-determined set of questions and tasks.
