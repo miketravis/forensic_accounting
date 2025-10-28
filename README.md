@@ -10,6 +10,10 @@ The AI forensic analysis Python pipeline process used here is as follows:
   	  a.	At this step, the AI is provided a database of its own SEC filings and of its main competitors’ SEC filings from the past 5 years. It can choose to use any of the filings for its analysis. There are many other resources that could be provided here such as Google search, court documents, alternative data, etc.
   4.	Gemini writes a report on its most critical findings.
 
+# File details:
+- final_output.md: The final report on the most critical findings
+- 
+
 There are many ways this project can be taken further.
   1. Reiterate over step 3 either X amount of times or until the AI model decides it's satisfied with it's research.
   2. Analyze and evaluate various AI models over different parts of the process. Opimal outcome would likely have multiple AI models used throughout the process
