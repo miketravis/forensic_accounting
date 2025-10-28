@@ -1,7 +1,7 @@
 # Forensic Analysis AI Pipeline using Gemini API and Python
 Uses the Gemini API to analyze financial statements and earnings calls for red flags.
 
-This project specifically analyzes United Wholesale Mortgage Corp (UWMC), but the main idea would be to run the process over an equity universe and the score and rank the results.
+This project specifically analyzes United Wholesale Mortgage Corp (UWMC, 0001783398 in the data folder), but the main idea would be to run the process over an equity universe and the score and rank the results.
 
 The AI forensic analysis Python pipeline process used here is as follows:
   1.	Use the Gemini API to analyze UWMC’s past 5 years of 10-K’s based on a pre-determined set of questions and tasks.
