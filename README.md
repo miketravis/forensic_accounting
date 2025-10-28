@@ -11,8 +11,10 @@ The AI forensic analysis Python pipeline process used here is as follows:
   4.	Gemini writes a report on its most critical findings.
 
 # File details:
-- final_output.md: The final report on the most critical findings
-- 
+- final_output.md: The final report on the most critical findings.
+- accounting_methods.md: The responses to the pre-determined set of questions and tasks from comparing subsequent annual reports.
+- earnings_emotions.md: The responses for each earnings call on whether it contained instances of anger, frustration, hostility, or dismissiveness.
+- next_steps.md: The queries Gemini constructed when tasked with identifying next steps by reviewing the account_methods and earnings_emotions texts.
 
 There are many ways this project can be taken further.
   1. Reiterate over step 3 either X amount of times or until the AI model decides it's satisfied with it's research.
