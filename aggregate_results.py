@@ -1,6 +1,7 @@
 """
 @author: Mike Travis
 """
+
 import os
 import json
 import asyncio
@@ -30,4 +31,5 @@ async def main(cik, results_accounting_methods, results_earnings_emotions, resul
         json.dump(dict_results, f, ensure_ascii=False)
     print('----- Done -----\n')
     
+
     return dict_results
