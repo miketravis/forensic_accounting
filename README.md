@@ -8,8 +8,7 @@ This project specifically analyzes United Wholesale Mortgage Corp (UWMC, 0001783
 The AI forensic analysis Python pipeline process used here is as follows:
   1.	Use the Gemini API to analyze UWMC’s past 5 years of 10-K’s based on a pre-determined set of questions and tasks.
   2.	Use the Gemini API to analyze UWMC’s past 5 years of earnings call .mp3 files to identify instances of anger, frustration, hostility, or dismissiveness.
-  3.	Based on the findings from above, the Gemini API constructs a set of next steps and then conducts those steps itself using provided resources.
-  	  a.	At this step, the AI is provided a database of its own SEC filings and of its main competitors’ SEC filings from the past 5 years. It can choose to use any of the filings for its analysis. There are many other resources that could be provided here such as Google search, court documents, alternative data, etc.
+  3.	Based on the findings from above, the Gemini API constructs a set of next steps and then conducts those steps itself using provided resources. At this step, the AI is provided a database of its own SEC filings and of its main competitors’ SEC filings from the past 5 years. It can choose to use any of the filings for its analysis. There are many other resources that could be provided here such as Google search, court documents, alternative data, etc.
   4.	Gemini writes a report on its most critical findings.
 
 # Output File Details
